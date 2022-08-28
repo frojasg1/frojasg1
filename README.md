@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @frojasg1
 - 👀 I’m interested in contributing to community, and learning interesting stuff
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ...     I am currently (2022/2023) studying a master on Artificial Intelligence
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me   ---> you can send me an e-mail to: frojasg1@hotmail.com
 
