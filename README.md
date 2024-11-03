@@ -6,7 +6,7 @@
 
 - (06/2021) I am currently working on trying to position a web page dealing with, at the moment, my biggest work (chessPdfBrowser). You can visit it at: https://chesspdfbrowser.com?origin=github
 
-- I want also to share my personal web page. You can visit it at:
+- I would like also to share my personal web page. You can visit it at:
 https://frojasg1.com?origin=github
 
 
